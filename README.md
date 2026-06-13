@@ -1,1 +1,1 @@
-# FINTO-Financial-Navigator-Telegram-Organizer-
+# FINTO-Financial-Navigator-Telegram-Organizer
